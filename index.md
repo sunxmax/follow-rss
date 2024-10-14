@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "follow-rss"
+  name: "follow"
   text: "A VitePress Site"
   tagline: My great project tagline
   actions:
