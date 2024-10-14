@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "vitepress": "^1.4.0"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "dependencies": {
+    "vitepress-plugin-rss": "^0.2.10"
+  },
+  "volta": {
+    "node": "20.18.0",
+    "npm": "10.8.1"
+  }
+}
