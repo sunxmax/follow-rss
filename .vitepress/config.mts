@@ -6,7 +6,7 @@ const RSS: RSSOptions = {
   title: 'follow',
   baseUrl: 'https://follow-rss.vercel.app/',
   copyright: 'Copyright (c) 2021-present, zero',
-  description: 'feedId:67840654578173952+userId:67737338736758784'
+  description: 'feedId:68575158365448192+userId:68479353307954176'
 }
 
 // https://vitepress.dev/reference/site-config
